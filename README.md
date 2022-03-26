@@ -4,4 +4,4 @@
 4. git log / git log --oneline   - информацио о коммитах / красткая инфо о коммитах
 5. git push [rep_link] [branch_name]  - для загрузки данных на удаленный репозиторий
 
-6. git push origin maser - стандартная запись данных по ссылке origin на ветку master
+6. git push origin master - стандартная запись данных по ссылке origin на ветку master
