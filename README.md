@@ -17,6 +17,6 @@
 
 
 BRANCH
-
-1. git branch - проверка веток
-2. git branch [branch-name] - создание новой ветки
+1. git branch - проверка веток;
+2. git branch [branch-name] - создание новой ветки;
+3. git checkout [name] - переключение на новую ветку [name];
